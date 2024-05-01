@@ -1,0 +1,8 @@
+venv 
+.env
+__pycache__
+**/data
+**/data.zip
+server/data
+server/archive.py
+**/node_modules
